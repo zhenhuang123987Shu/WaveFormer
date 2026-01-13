@@ -2,7 +2,7 @@
 
 This is the official repository for the paper: **"WaveFormer: Monocular Sea Surface Reconstruction"**.
 
-**[Project Page](https://zhenhuang123987shu.github.io/Isprs-2025/)** | **[Paper (Coming Soon)](https://zhenhuang123987shu.github.io/Isprs-2025/)**
+**[Project Page](https://zhenhuang123987shu.github.io/WaveFormer/)** | Paper (Coming Soon)
 
 ---
 
